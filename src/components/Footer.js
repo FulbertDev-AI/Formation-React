@@ -10,7 +10,7 @@ function Footer() {
 
 	function handleBlur() {
 		if (!inputValue.includes('@')) {
-			alert("Attention, il n'y a pas d'@, ceci n'est pas une adresse valide 😥")
+			alert("Attention, votre adresse mail n'est pas valide 😥")
 		}
 	}
 
