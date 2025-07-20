@@ -25,11 +25,11 @@ function Cart({ cart, updateCart }) {
 					<ul>
 						{cart.map(({ name, price, amount }, index) => (
 							<div key={`${name}-${index}`}>
-								{name} {price}€ x {amount}
+								{name} {price}FCFA x {amount}
 							</div>
 						))}
 					</ul>
-					<h3>Total :{total}€</h3>
+					<h3>Total :{total}FCFA</h3>
 					<button onClick={() => updateCart([])}>Vider le panier</button>
 				</div>
 			) : (

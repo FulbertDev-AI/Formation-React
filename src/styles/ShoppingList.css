@@ -9,3 +9,14 @@
 	flex-wrap: wrap;
 	justify-content: center;
 }
+
+.button{
+	background-color: #87CEEB;
+	border-radius: 8px;
+	height: 30px;
+	width: 80px;
+}
+
+.button:hover{
+	background-color: aqua;
+}

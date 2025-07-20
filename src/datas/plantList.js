@@ -16,7 +16,7 @@ export const plantList = [
 		light: 2,
 		water: 3,
 		cover: monstera,
-		price: 15
+		price: 1500
 	},
 	{
 		name: 'ficus lyrata',
@@ -25,7 +25,7 @@ export const plantList = [
 		light: 3,
 		water: 1,
 		cover: lyrata,
-		price: 16
+		price: 1600
 	},
 
 	{
@@ -35,8 +35,7 @@ export const plantList = [
 		light: 1,
 		water: 2,
 		cover: pothos,
-
-		price: 9
+		price: 900
 	},
 	{
 		name: 'calathea',
@@ -45,8 +44,7 @@ export const plantList = [
 		light: 2,
 		water: 3,
 		cover: calathea,
-
-		price: 20
+		price: 2000
 	},
 	{
 		name: 'olivier',
@@ -55,7 +53,7 @@ export const plantList = [
 		light: 3,
 		water: 1,
 		cover: olivier,
-		price: 25
+		price: 2500
 	},
 
 	{
@@ -65,7 +63,7 @@ export const plantList = [
 		light: 2,
 		water: 1,
 		cover: cactus,
-		price: 6
+		price: 600
 	},
 	{
 		name: 'basilique',
@@ -74,7 +72,7 @@ export const plantList = [
 		light: 2,
 		water: 3,
 		cover: basil,
-		price: 5
+		price: 500
 	},
 	{
 		name: 'succulente',
@@ -83,7 +81,7 @@ export const plantList = [
 		light: 2,
 		water: 1,
 		cover: succulent,
-		price: 8
+		price: 800
 	},
 
 	{
@@ -93,6 +91,6 @@ export const plantList = [
 		light: 2,
 		water: 2,
 		cover: mint,
-		price: 4
+		price: 400
 	}
 ]

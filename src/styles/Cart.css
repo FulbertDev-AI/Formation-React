@@ -1,11 +1,11 @@
 .lmj-cart {
 	color: white;
-	background-color: #31b572;
+	background-color: #87CEEB;
 	padding: 32px;
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
-	width: 200px;
+	width: 300px;
 }
 
 .lmj-cart-add-button {
@@ -22,11 +22,12 @@
 	align-self: self-start;
 	padding: 0;
 	color: white;
+	align-self: flex-end;
 }
 
 .lmj-cart-closed {
 	padding: 32px;
-	width: 200px;
+	width: 300px;
 }
 
 .lmj-cart-closed > button {
